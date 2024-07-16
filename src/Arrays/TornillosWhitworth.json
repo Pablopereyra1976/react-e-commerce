@@ -1,0 +1,44 @@
+[
+    {
+        "tornillo": "1/4",
+        "id": 1,
+        "descripcion": "tornillo 1/4 allen",
+        "color": "negro",
+        "talla": "20mm"
+    },
+    {
+        "tornillo": "1/2",
+        "id": 2,
+        "descripcion": "tornillo 1/2 allen ",
+        "color": "negro",
+        "talla": "20mm"
+    },
+    {
+        "tornillo": "3/4",
+        "id": 3,
+        "descripcion": "tornillo 3/4 allen ",
+        "color": "negro",
+        "talla": "20mm"
+    },
+    {
+        "tornillo": "1/4",
+        "id": 4,
+        "descripcion": "tornillo 1/4 hexagonal",
+        "color": "negro",
+        "talla": "20mm"
+    },
+    {
+        "tornillo": "1/2",
+        "id": 5,
+        "descripcion": "tornillo 1/2 hexagonal ",
+        "color": "negro",
+        "talla": "20mm"
+    },
+    {
+        "tornillo": "3/4",
+        "id": 6,
+        "descripcion": "tornillo 3/4 hexagonal ",
+        "color": "negro",
+        "talla": "20mm"
+    }
+]

@@ -1,0 +1,25 @@
+.container-stock {
+  background-color: blueviolet;
+  width: 400px;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 500px;
+}
+.descripcion {
+  text-transform: uppercase;
+  color: black;
+  font-weight: 700;
+}
+.btn-stock {
+  background-color: antiquewhite;
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+  
+  border-radius: 10px;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 80px;
+}

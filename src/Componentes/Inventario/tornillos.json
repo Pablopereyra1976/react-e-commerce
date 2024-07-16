@@ -1,0 +1,49 @@
+[{
+    "nombre":"6mm",
+    "id": 1,
+    "descripcion":"tornillo 6mm allen",
+    "color":"negro",
+    "talla":"20mm",
+    "imagenUrl": "../../../imagenes/tornillo1.jpeg"
+},
+{
+    "nombre":"8mm",
+    "id": 2,
+    "descripcion":"tornillo 8mm allen",
+    "color":"negro",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../imagenes/tornillo2.jpeg"
+},
+{
+    "nombre":"10mm",
+    "id": 3,
+    "descripcion":"tornillo 10mm allen",
+    "color":"negro",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../imagenes/tornillo8.jpeg"
+},
+{
+    "nombre":"6mm",
+    "id": 4,
+    "descripcion":"tornillo 6mm hexagonal",
+    "color":"negro",
+    "talla":"20mm",
+    "imagenUrl": "../../../imagenes/tornillo4.jpeg"
+},
+{
+    "nombre":"8mm",
+    "id": 5,
+    "descripcion":"tornillo 8mm hexagonal",
+    "color":"negro",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../imagenes/tornillo7.jpeg"
+},
+{
+    "nombre":"10mm",
+    "id": 6,
+    "descripcion":"tornillo 10mm hexagonal",
+    "color":"negro",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../imagenes/tornillo6.jpeg"
+}
+]

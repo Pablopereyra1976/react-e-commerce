@@ -1,0 +1,49 @@
+[{
+    "nombre":"tuerca 6mm",
+    "id": 1,
+    "descripcion":"rosca milimetrica ",
+    "color":"dorada",
+    "talla":"20mm",
+    "imagenUrl": "../../../public/imagenes/tuerca1.jpeg"
+},
+{
+    "nombre":"tuerca 8mm",
+    "id": 2,
+    "descripcion":"rosca milimetrica ",
+    "color":"blanca",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../public/imagenes/tuerca2.jpeg"
+},
+{
+    "nombre":"tuerca 10mm",
+    "id": 3,
+    "descripcion":"rosca milimetrica ",
+    "color":"negro",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../public/imagenes/tuerca3.jpeg"
+},
+{
+    "nombre":"tuerca 1/4",
+    "id": 4,
+    "descripcion":"rosca whithworth ",
+    "color":"verde",
+    "talla":"20mm",
+    "imagenUrl": "../../../public/imagenes/tuerca4.jpeg"
+},
+{
+    "nombre":"tuerca 1/2",
+    "id": 5,
+    "descripcion":"rosca whithworth ",
+    "color":"roja",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../public/imagenes/tuerca5.jpeg"
+},
+{
+    "nombre":"tuerca 3/4",
+    "id": 6,
+    "descripcion":"rosca whithworth ",
+    "color":"azul",
+    "talla":"20mm" ,
+     "imagenUrl": "../../../public/imagenes/tuerca6.jpeg"
+}
+]
